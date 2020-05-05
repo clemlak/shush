@@ -6,7 +6,7 @@
   "scripts": {
     "start": "parcel index.html",
     "dev": "parcel index.html",
-    "build": "parcel build index.html"
+    "build": "npx -p parcel-bundler parcel build index.html"
   },
   "keywords": [],
   "author": "Clement Lakhal (https://twitter.com/ClementCodes)",
